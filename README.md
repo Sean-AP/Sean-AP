@@ -1,4 +1,4 @@
-![Karting at Buckmore Park](https://raw.githubusercontent.com/Sean-AP/Sean-AP/main/assets/banner.jpg)
+![Karting at Buckmore Park](https://raw.githubusercontent.com/Sean-AP/Sean-AP/main/assets/banner.png)
 
 ---
 
