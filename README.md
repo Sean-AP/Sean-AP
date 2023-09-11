@@ -49,7 +49,7 @@ Before that, I got involved in a number of initiatives such as the Arkwright Eng
 ### My Hobbies
 
 I enjoy parkrunning, karting, and doing programming/engineering projects<br>
-I've also done my fair share of hackathons, mostly alongside [@btRooke]. Here are some highlights:<br>
+I've also done my fair share of hackathons, mostly alongside [@btRooke](https://github.com/btRooke). Here are some highlights:<br>
 
 | **When?**            | **What?**                                                                        | **Why?**                                                                                                                                                                                  |
 |----------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
