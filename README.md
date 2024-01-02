@@ -23,22 +23,17 @@ I'm a software developer, motorsport enthusiast, and hobbyist engineer from the 
 ### My Work
 
 <p>
-  <a href="https://www.linkedin.com/in/seanapatterson">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=fff"/>
-  </a>
-  <a href="https://protirus.com/about.html">
-  <img alt="Protirus" src="https://img.shields.io/badge/Software%20Developer%20@%20Protirus-4567C7?style=for-the-badge&labelColor=fff&link=https%3A%2F%2Fprotirus.com%2Fabout.html&logo=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAmCAMAAAB5ytLYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFxUExURezv+d7k9d/l9eHm9uru+fj5/f///5eq4FBwylNyy1V0zF58z3SO1Z2v4tPb8vn6/Y6j3UFkxkRmx0Nmx0JlxkNlxoWb2tjf8/7+/4+j3UJkxkVnx1l4zbfE6fz8/kNmxk1uya695/39/sTP7URnx2mF0uvu+ZSn30pryE1tyUlqyKy75uTp99HZ8dLa8cbQ7pKm3nKL1PX3/LrG6k9vylNzy93j9fv8/ome27LA6LvH66m45UZox73J6+/y+nGL1Etsyc3W8Ojs+Iyh3Ft5zubr+O7x+s/X8LHA6KCx4pqs4Jms4GJ/0ISa2put4WWB0UxtyUxsycXQ7vT2/Ki45Vp4zYac2+vv+WiE0uLn9vDy+oGY2WeD0dbe85ir4ODm9szV8HWO1bzI6/b3/Pr7/YKZ2W6I03yU2H2U2JCk3q285tTc8nqS18/Y8bfF6Zyu4Vd2zNvi9HON1XmS1/v7/nmR15Gl3khpyHuT18XP7dbd8+5Q0uYAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFySURBVDhP7dRnU8IwAIDhoBIrTkKitVFAxIUDRQQHTtxbUBy4FRX3Xr/eNg3g2RT+gO/H3HNpckkKgKVIVHGJFWYCpVKZKFt5RWVVNTc1diTMgYlUWyczU69QsxBuaHQWMJS63E2eQoYiqVkzdq8gTiglLa0QtLW7BXX4COKqE4Ku7h5R/l5JR7gvALTNifL0BxlCAyFTA8ODmE3k85sbOMRXNJzHjDgYiYyam7FxwszEpJmRp6IRRtD0TMbIs3PzC4tL2aLLTKh7XwnrRrasrq0j/DuXTrwbMchMfHOL6B83RBJWZrYTEX0LxvDOrnqmEO4l+bzG8P6BOgeAzsPM6f0JYV/ySFsKgMf88CgifLlaioKCJ6dnGoHgPKUfCyXSxWW2q2T6+ibAhGpCNj7N7V08nEu9otnAvS5QaoyPGAMP7FPo8YkPCAJpdufxc+5ZGuLvAr+88gFB/4Yqb/nMu/dDjX7mM6Evv1rsm/3VREH4A+nDduQAyDQTAAAAAElFTkSuQmCC">
-  </a>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=fff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fseanapatterson"/>
+  <img alt="Protirus" src="https://img.shields.io/badge/Developer%20at%20Protirus%20%282021%E2%80%932023%29-4567C7?style=for-the-badge&link=https%3A%2F%2Fprotirus.com%2Fabout.html">
+  <img alt="Aston Martin F1 Team" src="https://img.shields.io/badge/Junior%20Software%20Engineer%20at%20AMF1%20%282024%29-00685F?style=for-the-badge&link=https%3A%2F%2Fwww.astonmartinf1.com%2Fen-GB%2F">
 </p>
 
-I currently work at [Protirus](https://protirus.com/about.html) delivering high-quality data loss prevention solutions
-<br>
-I've gained experience using C#, Powershell, SQL, Python, Azure DevOps, HTML/CSS/JS, Salesforce, and more!
+I currently work as a Junior Software Engineer at Aston Martin F1 Team, as part of the Control Systems department.
 <br>
 <br>
-If you're an employer and think I might be a good fit for you, feel free to get in touch!
+Previously, I spent 18 months working at [Protirus](https://protirus.com/about.html) delivering data loss prevention solutions, primarily to large banks
 <br>
-One of the best ways to contact me is to connect on [LinkedIn](https://www.linkedin.com/in/seanapatterson/) - from there I can send you my CV or schedule a call
+One of the best ways to contact me regarding my work is to connect on [LinkedIn](https://www.linkedin.com/in/seanapatterson/)
 
 <br>
 
